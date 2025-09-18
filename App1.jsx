@@ -2,7 +2,7 @@ import Nav from "./components/Nav";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
 
-function App1()
+function App()
 {
       return(
          <div>
@@ -14,5 +14,6 @@ function App1()
 
       )
 }
+
 
 export default App1;
